@@ -1,5 +1,5 @@
 FROM debian:buster-slim
-LABEL MAINTAINER DambyGreen <pouttouro@gmail.com>
+LABEL MAINTAINER Sylversys SN <info-sen@sylversys.com>
 
 SHELL ["/bin/bash", "-xo", "pipefail", "-c"]
 
